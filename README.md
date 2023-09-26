@@ -21,7 +21,7 @@ To run these tests locally, follow the steps below:
 3. Navigate to the project directory:
 
    ```shell
-   cd <repository-folder>
+   cd <https://github.com/eyongegbe/saucedemo-ui-tests.git>
    ```
 
 4. Install project dependencies by running the following command:
