@@ -15,7 +15,7 @@ To run these tests locally, follow the steps below:
 2. Clone this repository to your local machine:
 
    ```shell
-   git clone <repository-url>
+   git clone <https://github.com/eyongegbe/saucedemo-ui-tests.git>
    ```
 
 3. Navigate to the project directory:
